@@ -1,1 +1,1 @@
-# Attention based Individualized Regression
+# Attention based Individualized Regression (AIR)
